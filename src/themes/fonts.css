@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'canilari';
+    src: url('../../public/fonts//Canilari-Pro.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+.test{
+    color:'red'
+}
